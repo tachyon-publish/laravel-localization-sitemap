@@ -3,7 +3,7 @@
     "description": "Sitemap generation for Laravel Localization package from mcamara",
     "type": "library",
     "homepage": "https://github.com/tachyonvfx/laravel-localization-sitemap",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "mcamara/laravel-localization": "^1.3"
     },
