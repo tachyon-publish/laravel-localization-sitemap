@@ -1,6 +1,8 @@
 {
     "name": "tachyonvfx/laravel-localization-sitemap",
     "description": "Sitemap generation for Laravel Localization package from mcamara",
+    "type": "library",
+    "homepage": "https://github.com/tachyonvfx/laravel-localization-sitemap",
     "minimum-stability": "dev",
     "require": {
         "mcamara/laravel-localization": "^1.3"
@@ -11,5 +13,10 @@
             "name": "Nuno Ribeiro",
             "email": "n.ribeiro@tachyonvfx.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Tachyonvfx\\Localization\\Sitemap": "src"
+        }
+    }
 }
