@@ -6,6 +6,8 @@ Check https://github.com/mcamara/laravel-localization/issues/48#issuecomment-332
 
 * installation
 * * composer require tachyonvfx/laravel-localization-sitemap
+* * (had to do composer require tachyonvfx/laravel-localization-sitemap @stable )
+* * still much to learn :)
 
 * add provider to config/app.php
 * * Tachyonvfx\Localization\Sitemap\TachyonSitemapServiceProvider::class,
