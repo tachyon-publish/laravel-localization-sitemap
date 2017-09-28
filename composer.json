@@ -1,7 +1,7 @@
 {
     "name": "tachyonvfx/laravel-localization-sitemap",
     "description": "Sitemap generation for Laravel Localization package from mcamara",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "mcamara/laravel-localization": "^1.3"
     },
