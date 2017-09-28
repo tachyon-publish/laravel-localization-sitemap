@@ -1,6 +1,9 @@
 # laravel-localization-sitemap
 Sitemap generation for Laravel Localization from @mcamara
 
+Many thanks to jaumesala for his code! He made all the effort here.
+Check https://github.com/mcamara/laravel-localization/issues/48#issuecomment-332744555
+
 * installation
 * * composer require tachyonvfx/laravel-localization-sitemap
 
